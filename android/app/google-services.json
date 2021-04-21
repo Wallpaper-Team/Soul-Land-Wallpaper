@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "696516665874",
+    "project_id": "soul-land-wallpaper",
+    "storage_bucket": "soul-land-wallpaper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696516665874:android:48b3bf535d6814520ceecb",
+        "android_client_info": {
+          "package_name": "com.ducky.wallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696516665874-2olf1e66qu8lhsqvs8k6v1lknr1t825e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ducky.wallpaper",
+            "certificate_hash": "5ff7ec582e79c85a162bf0be2c3006c10f8d090d"
+          }
+        },
+        {
+          "client_id": "696516665874-vj3js8u0rudftume718dinsi9inip1tf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQpqLT2MfTh4GpVt4NOa9F04TfSrKPxNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696516665874-vj3js8u0rudftume718dinsi9inip1tf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
